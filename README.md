@@ -1,3 +1,3 @@
 # BottomTabBar1
 
-![Alt Text](https://giphy.com/gifs/jqHITixAPWosOr8RJl)
+![Result](https://media3.giphy.com/media/jqHITixAPWosOr8RJl/giphy.gif)
